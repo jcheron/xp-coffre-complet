@@ -13,7 +13,7 @@ Le code appartient **à l’équipe entière**.
 
 ---
 
-## 🎯 Objectifs du TD
+## Objectifs du TD
 - Concevoir un système simple guidé par les tests  
 - Pratiquer le Pair Programming de manière fluide  
 - Coordonner deux binômes dans une mini‑équipe XP  
@@ -24,7 +24,7 @@ Durée estimée : **4 heures**
 
 ---
 
-## 📦 User Stories
+## User Stories
 
 ### MVP
 1. **Ajouter un objet**  
@@ -60,7 +60,7 @@ Durée estimée : **4 heures**
 
 ---
 
-## 👥 Organisation de l’équipe
+## Organisation de l’équipe
 
 ### Binômes  
 - Travail en parallèle par 2 paires.  
@@ -78,7 +78,7 @@ Objectifs :
 
 ---
 
-## 🧪 Règles TDD
+## Règles TDD
 1. **Écrire un test qui échoue**  
 2. **Faire passer le test avec le code le plus simple**  
 3. **Refactoriser** en gardant tous les tests au vert  
@@ -88,7 +88,7 @@ Objectifs :
 
 ---
 
-## 🛠️ Livrables attendus
+## Livrables attendus
 - moteur de coffre minimal fonctionnel  
 - tests unitaires écrits en TDD  
 - board de stories (photo ou fichier)  
@@ -97,7 +97,7 @@ Objectifs :
 
 ---
 
-## 🚀 Pour démarrer
+## Pour démarrer
 1. Choisissez un langage commun dans l’équipe  
 2. Créez la structure minimale du projet  
 3. Commencez par **US1**  
@@ -105,7 +105,7 @@ Objectifs :
 
 ---
 
-## 💡 Conseils
+## Conseils
 - Visez la simplicité (KISS).  
 - Préférez plusieurs petits tests à un gros.  
 - N’ayez pas peur de refactoriser souvent.  
